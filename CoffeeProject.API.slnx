@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CoffeeProject.API/CoffeeProject.API.csproj" />
+  <Project Path="CoffeeProject.Application/CoffeeProject.Application.csproj" />
+  <Project Path="CoffeeProject.Infrastructure/CoffeeProject.Infrastructure.csproj" />
+</Solution>
