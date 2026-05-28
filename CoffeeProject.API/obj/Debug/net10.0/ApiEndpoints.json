@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CoffeeProject.API.Endpoints.CoffeeEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCoffeeEndpoints\u003Eb__1_0",
+    "RelativePath": "brew-coffee",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

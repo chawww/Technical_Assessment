@@ -1,0 +1,24 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Coffee Project API",
+    "description": "Developer Technical Test",
+    "version": "v1"
+  },
+  "paths": {
+    "/brew-coffee": {
+      "get": {
+        "tags": [
+          "Coffee API"
+        ],
+        "summary": "Get brew coffee",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
