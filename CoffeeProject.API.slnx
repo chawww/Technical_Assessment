@@ -2,4 +2,5 @@
   <Project Path="CoffeeProject.API/CoffeeProject.API.csproj" />
   <Project Path="CoffeeProject.Application/CoffeeProject.Application.csproj" />
   <Project Path="CoffeeProject.Infrastructure/CoffeeProject.Infrastructure.csproj" />
+  <Project Path="CoffeeProject.Test/CoffeeProject.Test.csproj" Id="51d5cb04-fd75-4837-8ac6-522ed443082b" />
 </Solution>
