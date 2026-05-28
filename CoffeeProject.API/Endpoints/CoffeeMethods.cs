@@ -11,9 +11,9 @@ namespace CoffeeProject.API.Endpoints
             this.repo = repo;
         }
 
-        public async Task<IResult> GetBrewCoffee()
+        public async Task<IResult> GetBrewCoffee(string zipCode, string countryCode)
         {
-            var result = await repo.GetBrewCoffee();
+            var result = await repo.GetBrewCoffee(zipCode, countryCode);
             return result == null ? TypedResults.NotFound() : TypedResults.Ok(result);
         }
     }

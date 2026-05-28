@@ -8,6 +8,7 @@ C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\CoffeeProject.API.pdb
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -33,7 +34,6 @@ C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\CoffeePr.E48730A7.Up2Date
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\CoffeeProject.API.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.API\obj\Debug\net10.0\refint\CoffeeProject.API.dll

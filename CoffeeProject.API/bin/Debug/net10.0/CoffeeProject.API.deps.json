@@ -38,6 +38,14 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Annotations/10.1.7": {
         "dependencies": {
           "Swashbuckle.AspNetCore.SwaggerGen": "10.1.7"
@@ -80,6 +88,9 @@
         }
       },
       "CoffeeProject.Application/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
         "runtime": {
           "CoffeeProject.Application.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -119,6 +130,13 @@
       "sha512": "sha512-u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
       "path": "microsoft.openapi/2.4.1",
       "hashPath": "microsoft.openapi.2.4.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Annotations/10.1.7": {
       "type": "package",

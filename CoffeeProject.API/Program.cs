@@ -11,8 +11,15 @@ namespace CoffeeProject.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddTransient<ICoffeeRepository, CoffeeRepository>();
+
             builder.Services.AddScoped<CoffeeMethods>();
+            builder.Services.AddTransient<ICoffeeRepository, CoffeeRepository>();
+            var openWeatherBaseUrl = builder.Configuration.GetValue<string>("OpenWeatherAPI:BaseUrl") ?? "";
+
+            builder.Services.AddHttpClient<ICoffeeRepository, CoffeeRepository>(client =>
+            {
+                client.BaseAddress = new Uri(openWeatherBaseUrl);
+            });
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(c =>

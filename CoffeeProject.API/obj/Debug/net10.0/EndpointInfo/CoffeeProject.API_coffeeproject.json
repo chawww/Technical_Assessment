@@ -11,6 +11,24 @@
         "tags": [
           "CoffeeProject.API"
         ],
+        "parameters": [
+          {
+            "name": "zipCode",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "countryCode",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
