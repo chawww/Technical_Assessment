@@ -1,6 +1,7 @@
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\bin\Debug\net10.0\CoffeeProject.Application.deps.json
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\bin\Debug\net10.0\CoffeeProject.Application.dll
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\bin\Debug\net10.0\CoffeeProject.Application.pdb
+C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\obj\Debug\net10.0\CoffeeProject.Application.csproj.AssemblyReference.cache
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\obj\Debug\net10.0\CoffeeProject.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\obj\Debug\net10.0\CoffeeProject.Application.AssemblyInfoInputs.cache
 C:\Users\charles.ordinario\source\test_repos\CoffeeProject.API\CoffeeProject.Application\obj\Debug\net10.0\CoffeeProject.Application.AssemblyInfo.cs

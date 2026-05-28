@@ -7,6 +7,6 @@ namespace CoffeeProject.Application.Repositories
 {
     public interface ICoffeeRepository
     {
-        public Task<CoffeeResponseDto> GetBrewCoffee();
+        public Task<CoffeeResponseDto> GetBrewCoffee(string zipCode, string countryCode);
     }
 }
